@@ -9,7 +9,7 @@ body {
     padding-top:  100px;
 }
 .container .services{
-    width: 60%;
+    width: 80%;
     display: block;
     justify-content: center;
     align-items: center;
@@ -36,8 +36,9 @@ input{
     border-radius: 10px;
 }
 #btnSubmit{
-    width: 30%;
+    width: 50%;
     background-color: green;
+
 }
 p{
     color: white;
