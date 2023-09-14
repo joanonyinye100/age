@@ -16,7 +16,7 @@ btnSubmit.addEventListener("click", display);
     let days = year * num1;
     let weeks = year * num2;
     let month = year * num3;
-    result.textContent= "Total Days: " + days +" Total Weeks: " + weeks + " Total Months:" + month;
+    result.textContent= "You have " + days + " Days, " + weeks + " Weeks, "  + month  + " Months.";
 
 }
 
