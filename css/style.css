@@ -6,6 +6,7 @@ body {
     background-image: url(../image.jpg);
     background-position: center;
     background-size: cover;
+    padding-top:  100px;
 }
 .container .services{
     width: 60%;
@@ -17,6 +18,7 @@ body {
 
 h1 {
     color: #3ebe3e;
+    padding: 10px;
 }
 
 #result {
@@ -36,4 +38,7 @@ input{
 #btnSubmit{
     width: 30%;
     background-color: green;
+}
+p{
+    color: white;
 }
