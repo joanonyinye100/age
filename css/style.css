@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    display: block;
+    justify-content: center;
+    background-image: url(../image.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.container .services{
+    width: 60%;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    padding: 100px;
+}
+
+h1 {
+    color: #3ebe3e;
+}
+
+#result {
+    margin-top: 20px;
+}
+
+input{
+
+    margin-bottom: 5px;
+    outline: none;
+    border: 1px solid green;
+    padding: 15px;
+    width :50%;
+    margin-top:8px;
+    border-radius: 10px;
+}
+#btnSubmit{
+    width: 30%;
+    background-color: green;
+}
